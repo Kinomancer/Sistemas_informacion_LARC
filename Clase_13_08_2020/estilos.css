@@ -1,0 +1,117 @@
+/*Fondo de color verde a partir de una clase, se ocupa el . + nombre de la clase */
+.title{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.greenbg {
+    background-color:  	darkcyan;
+}
+
+
+/*tamaños de letra*/
+.lettersize {
+    font-size: 2em;
+    text-align: left;
+}
+
+.righttext{
+    text-align: right;
+}
+
+
+/*Colores de letra*/
+
+.whiteletter {
+    color: white;
+    
+}
+
+.blackletter{
+    color: black;
+}
+
+/*Bordes*/
+
+.grayborder{
+    border: 7px outset gray;
+}
+
+.grayborderm{
+    border: 10px outset gray;
+    border-spacing: 5px;
+}
+
+.grayborderf{
+    border: 1px outset gray;
+    border-spacing: 5px;
+}
+
+
+
+.blackborder{
+    border: 1px solid black;
+}
+
+/*Tamaño de recuadro*/
+.divsize{
+    width: 100%;
+    height: 10%;
+    border-spacing: 0px;
+}
+
+/*fondos*/
+
+.bluebg{
+    background-color:  	#27409a;
+}
+
+.purplebg{
+    background-color: 	#735390;
+}
+
+.pinkbg{
+    background-color: 	#f9717f;
+}
+
+.abg{
+    background-color:  	#f3d0d9;
+}
+
+.bbg{
+    background-color: 	#c31843;
+}
+
+.cbg{
+    background-color: 	#3a0714;
+}
+
+.xbg{
+    background-color:  	#d52922;
+}
+
+.ybg{
+    background-color: 	#d69105;
+}
+
+.zbg{
+    background-color: 	#4b7ba1;
+}
+
+
+
+
+/*margenes*/
+
+.margin{
+    margin: 0;
+    padding: 0;
+}
+
+.dmargin{
+    margin-bottom: 30px;
+}
+
+.bmargin{
+    margin: 2px;
+}
